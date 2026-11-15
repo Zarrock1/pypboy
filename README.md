@@ -1,5 +1,11 @@
 # pypboy
 
+> **Этот форк** — рабочий репозиторий сборки Pip-Boy 3000 Mk IV.
+> - `cad/zapwizard_unfinished/` — полный архив "Pip-Boy Unfinished Version" ZapWizard (Google Drive, дек. 2017), CC BY-NC-SA, автор Joshua Driggs.
+> - `print/` — все STL для печати, собранные в одну папку (копии из `cad/`).
+> - `docs/PROJECT_NOTES.md` — заметки по треду RPF, электронике и плану.
+> - Большие бинарные файлы в `cad/` и `print/` хранятся через Git LFS: `git lfs install` перед клоном.
+
 > _Notes from ZapWizard:_
 >
 > This is a work in progress of the code for my Functional Pip-Boy 3000 MK IV.

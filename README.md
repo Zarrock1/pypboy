@@ -1,7 +1,7 @@
 # pypboy
 
 > **Этот форк** — код интерфейса для сборки Pip-Boy 3000 Mk IV.
-> - CAD, STL для печати и заметки: https://github.com/Zarrock1/pipboy-mk4-cad (Git LFS: `git lfs install` перед клоном).
+> - CAD, STL для печати и заметки: https://github.com/Zarrock1/pipboy-mk4-cad.
 > - `docs/PROJECT_NOTES.md` — заметки по треду RPF, электронике и плану.
 
 > _Notes from ZapWizard:_
